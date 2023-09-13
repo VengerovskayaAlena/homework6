@@ -47,12 +47,12 @@ public class Main {
         }
 
     System.out.println(" Задача 9");
-        int savings2 = 29000;
-        int total2 = 0;
+        int savings9 = 29000;
+        int total9 = 0;
         for (int i = 1; i <= 12; i++) {
-            total2 = total2 + total2/100;
-            total2 = total2 + savings2;
-            System.out.println("Месяц " + i + ", сумма накоплений равна " + total2 + " рублей");
+            total9 = total9 + total9/100;
+            total9 = total9 + savings9;
+            System.out.println("Месяц " + i + ", сумма накоплений равна " + total9 + " рублей");
         }
 
     System.out.println(" Задача 10");
